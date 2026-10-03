@@ -4,5 +4,11 @@
     "name": "בנימין סולומון",
     "email": "mr.benny.solomon@gmail.com",
     "passwordHash": "$2b$10$kWTCuiagh/2zanEb1MXyM.i58GNyFbsX3xHSk7EpHRlbgdKCH7GnW"
+  },
+  {
+    "id": "1790767805315",
+    "name": "ניסיון",
+    "email": "test@example.com",
+    "passwordHash": "$2b$10$kWTCuiagh/2zanEb1MXyM.i58GNyFbsX3xHSk7EpHRlbgdKCH7GnW"
   }
 ]
