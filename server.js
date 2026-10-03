@@ -86,6 +86,7 @@ app.post("/api/register", async (req, res) => {
     email: normalizedEmail,
     passwordHash: await bcrypt.hash(password, 10),
   };
+  
   users.push(user);
   writeUsers(users);
 
